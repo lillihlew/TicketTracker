@@ -1,0 +1,1351 @@
+Script started on 2023-04-28 11:53:49-05:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
+
+
+TEST ONE
+
+[?2004h wheeler ticket_tracker$./ticket
+[?2004l
+This program assists the user in ticket-based error tracking.
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: APPP LE
+
+Please enter error code: WORMS
+
+Ticket #1 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+4
+The items on the new list are:
+
+Ticket #1
+	 Company Identifier:APPLE
+	 Error:WORMS
+	 Status:new
+	 Technician:unassigned
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+7
+Exiting. Thank you for using this program. Have a nice day!
+
+
+TEST TWO
+
+
+[?2004h wheeler ticket_tracker$./ticket
+[?2004l
+This program assists the user in ticket-based error tracking.
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: APPLE
+
+Please enter error code: WORMS
+
+Ticket #1 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+2
+Please enter the name of the techinician:
+FARMER
+New status: assigned
+Tech's name: FARMER
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+4
+The items on the new list are:
+
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+5
+The items on the assigned list are:
+
+Ticket #1
+	 Company Identifier:APPLE
+	 Error:WORMS
+	 Status:assigned
+	 Technician:FARMER
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+7
+Exiting. Thank you for using this program. Have a nice day!
+
+
+TEST THREE
+
+
+[?2004h wheeler ticket_tracker$./ticket
+[?2004l
+This program assists the user in ticket-based error tracking.
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: APPLE
+
+Please enter error code: WORMS
+
+Ticket #1 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+2
+Please enter the name of the techinician:
+FR ARMER
+New status: assigned
+Tech's name: FARMER
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+3
+Please enter a ticket number: 1
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+4
+The items on the new list are:
+
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+5
+The items on the assigned list are:
+
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+6
+The items on the complete list are:
+
+Ticket #1
+	 Company Identifier:APPLE
+	 Error:WORMS
+	 Status:complete
+	 Technician:FARMER
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+7
+Exiting. Thank you for using this program. Have a nice day!
+
+
+TEST FOUR
+
+
+[?2004h wheeler ticket_tracker$./ticket
+[?2004l
+This program assists the user in ticket-based error tracking.
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+4
+The items on the new list are:
+
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+5
+The items on the assigned list are:
+
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+6
+The items on the complete list are:
+
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+2
+No new tickets to be assigned.
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+3
+No assigned tickets to be completed.
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+7
+Exiting. Thank you for using this program. Have a nice day!
+
+
+[?2004h wheeler ticket_tracker$exit
+[?2004lexit
+
+Script done on 2023-04-28 11:56:43-05:00 [COMMAND_EXIT_CODE="0"]
+
+
+
+TEST FIVE
+
+
+Script started on 2023-04-28 11:58:07-05:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
+[?2004h wheeler ticket_tracker$./ticket
+[?2004l
+This program assists the user in ticket-based error tracking.
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: MICROSOFT
+
+Please enter error code: WINDOWLESS
+
+Ticket #1 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: APPLE
+
+Please enter error code: WORMY
+
+Ticket #2 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: STATEFARM
+
+Please enter error code: NOJAKE
+
+Ticket #3 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+4
+The items on the new list are:
+
+Ticket #1
+	 Company Identifier:MICROSOFT
+	 Error:WINDOWLESS
+	 Status:new
+	 Technician:unassigned
+Ticket #2
+	 Company Identifier:APPLE
+	 Error:WORMY
+	 Status:new
+	 Technician:unassigned
+Ticket #3
+	 Company Identifier:STATEFARM
+	 Error:NOJAKE
+	 Status:new
+	 Technician:unassigned
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+7
+Exiting. Thank you for using this program. Have a nice day!
+
+
+TEST SIX
+
+
+[?2004h wheeler ticket_tracker$./ticket
+[?2004l
+This program assists the user in ticket-based error tracking.
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: MICROSOFT
+
+Please enter error code: WINDOWLESS
+
+Ticket #1 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: STATEFARM
+
+Please enter error code: NOJAKE
+
+Ticket #2 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: APPLE
+
+Please enter error code: WORMY
+
+Ticket #3 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+2
+Please enter the name of the techinician:
+techy
+New status: assigned
+Tech's name: techy
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+2
+Please enter the name of the techinician:
+techo
+New status: assigned
+Tech's name: techo
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+2t 
+Please enter the name of the techinician:
+texine
+New status: assigned
+Tech's name: texine
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+4
+The items on the new list are:
+
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+5
+The items on the assigned list are:
+
+Ticket #1
+	 Company Identifier:MICROSOFT
+	 Error:WINDOWLESS
+	 Status:assigned
+	 Technician:techy
+Ticket #2
+	 Company Identifier:STATEFARM
+	 Error:NOJAKE
+	 Status:assigned
+	 Technician:techo
+Ticket #3
+	 Company Identifier:APPLE
+	 Error:WORMY
+	 Status:assigned
+	 Technician:texine
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+7
+Exiting. Thank you for using this program. Have a nice day!
+
+
+
+
+
+TEST SEVEN
+
+
+
+
+[?2004h wheeler ticket_tracker$./ticket
+[?2004l
+This program assists the user in ticket-based error tracking.
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: STATEFARM
+
+Please enter error code: JAKELESS
+
+Ticket #1 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: WINDOWS
+
+Please enter error code: CURTAINLESS
+
+Ticket #2 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: APPLE
+
+Please enter error code: WORMLESS
+
+Ticket #3 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+2
+Please enter the name of the techinician:
+techone
+New status: assigned
+Tech's name: techone
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+2
+Please enter the name of the techinician:
+techtwo
+New status: assigned
+Tech's name: techtwo
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+2
+Please enter the name of the techinician:
+techthree
+New status: assigned
+Tech's name: techthree
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+3
+Please enter a ticket number: 2
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+3
+Please enter a ticket number: 3
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+3
+Please enter a ticket number: 1
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+4
+The items on the new list are:
+
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+5
+The items on the assigned list are:
+
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+6
+The items on the complete list are:
+
+Ticket #2
+	 Company Identifier:WINDOWS
+	 Error:CURTAINLESS
+	 Status:complete
+	 Technician:techtwo
+Ticket #3
+	 Company Identifier:APPLE
+	 Error:WORMLESS
+	 Status:complete
+	 Technician:techthree
+Ticket #1
+	 Company Identifier:STATEFARM
+	 Error:JAKELESS
+	 Status:complete
+	 Technician:techone
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+7
+Exiting. Thank you for using this program. Have a nice day!
+[?2004h wheeler ticket_tracker$exit
+[?2004lexit
+
+Script done on 2023-04-28 12:01:35-05:00 [COMMAND_EXIT_CODE="0"]
+
+
+TEST EIGHT
+
+
+Script started on 2023-04-28 12:01:46-05:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
+[?2004h wheeler ticket_tracker$./ticket
+[?2004l
+This program assists the user in ticket-based error tracking.
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: APPLE
+
+Please enter error code: MOLD
+
+Ticket #1 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: BANANA
+
+Please enter error code: Slm IMe
+
+Ticket #2 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: STATEFARM
+
+Please enter error code: NOINSURANCE
+
+Ticket #3 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+2
+Please enter the name of the techinician:
+techling
+New status: assigned
+Tech's name: techling
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+2
+Please enter the name of the techinician:
+jake
+New status: assigned
+Tech's name: jake
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+3
+Please enter a ticket number: 2
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+4
+The items on the new list are:
+
+Ticket #3
+	 Company Identifier:STATEFARM
+	 Error:NOINSURANCE
+	 Status:new
+	 Technician:unassigned
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+5
+The items on the assigned list are:
+
+Ticket #1
+	 Company Identifier:APPLE
+	 Error:MOLD
+	 Status:assigned
+	 Technician:techling
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+6
+The items on the complete list are:
+
+Ticket #2
+	 Company Identifier:BANANA
+	 Error:SlIMe
+	 Status:complete
+	 Technician:jake
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+7
+Exiting. Thank you for using this program. Have a nice day!
+
+
+
+TEST NINE
+
+
+[?2004h wheeler ticket_tracker$./ticket
+[?2004l
+This program assists the user in ticket-based error tracking.
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: APPLE
+
+Please enter error code: WORMS
+
+Ticket #1 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+2
+Please enter the name of the techinician:
+3 FARMER
+New status: assigned
+Tech's name: FARMER
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+3
+Please enter a ticket number: 1
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: MICROSOFT
+
+Please enter error code: WINDOWLESS
+
+Ticket #2 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+2
+Please enter the name of the techinician:
+BILL
+New status: assigned
+Tech's name: BILL
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+4
+The items on the new list are:
+
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+5
+The items on the assigned list are:
+
+Ticket #2
+	 Company Identifier:MICROSOFT
+	 Error:WINDOWLESS
+	 Status:assigned
+	 Technician:BILL
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+6
+The items on the complete list are:
+
+Ticket #1
+	 Company Identifier:APPLE
+	 Error:WORMS
+	 Status:complete
+	 Technician:FARMER
+
+End of List
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+7
+Exiting. Thank you for using this program. Have a nice day!
+
+
+
+TEST TEN
+
+
+[?2004h wheeler ticket_tracker$./ticket
+[?2004l
+This program assists the user in ticket-based error tracking.
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+2
+No new tickets to be assigned.
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+3
+No assigned tickets to be completed.
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+7
+Exiting. Thank you for using this program. Have a nice day!
+
+
+
+TEST ELEVEN
+
+
+[?2004h wheeler ticket_tracker$./ticket
+[?2004l
+This program assists the user in ticket-based error tracking.
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: APPLE
+
+Please enter error code: WORMS
+
+Ticket #1 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: MIR CROSOFT
+
+Please enter error code: CURTAINLESS
+
+Ticket #2 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: STATEFARM
+
+Please enter error code: INSURANCELESS
+
+Ticket #3 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+2
+Please enter the name of the techinician:
+john
+New status: assigned
+Tech's name: john
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+3
+Please enter a ticket number: 3
+Ticket 3 is not located in the assigned list and cannot be moved to completed.
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+67=   3
+Please enter a ticket number: 67
+Ticket 67 is not located in the assigned list and cannot be moved to completed.
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+7
+Exiting. Thank you for using this program. Have a nice day!
+
+
+
+TEST TWELVE
+
+
+[?2004h wheeler ticket_tracker$./ticket
+[?2004l
+This program assists the user in ticket-based error tracking.
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+1
+Please enter company identifier: tick1
+
+Please enter error code: 2 tick1
+
+Ticket #1 added to end of list
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+2
+Please enter the name of the techinician:
+tech1
+New status: assigned
+Tech's name: tech1
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+3
+Please enter a ticket number: 0
+Ticket 0 is not located in the assigned list and cannot be moved to completed.
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+9
+Please try again with a number 1-7.
+[?2004h wheeler ticket_tracker$exit
+[?2004lexit
+
+Script done on 2023-04-28 12:11:27-05:00 [COMMAND_EXIT_CODE="0"]
+
+
+
+TEST THIRTEEN
+
+
+Script started on 2023-04-28 12:21:50-05:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
+[?2004h wheeler ticket_tracker$./ticket
+[?2004l
+This program assists the user in ticket-based error tracking.
+
+Please enter 1-7 corresponding to an option from the menu below: 
+	1. Create a new tracking ticket 
+	2. Assign a new ticket to a technician for handling
+	3. Mark a ticket complete
+	4. Print a list of new tickets
+	5. Print a list of assigned tickets
+	6. Print a list of completed tickets
+	7. Exit the program 
+Please enter desired option: 
+abcdefg
+Please try again with a number 1-7.
+[?2004h wheeler ticket_tracker$exit
+[?2004lexit
+
+Script done on 2023-04-28 12:21:59-05:00 [COMMAND_EXIT_CODE="0"]
